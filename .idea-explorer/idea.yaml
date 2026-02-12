@@ -1,0 +1,29 @@
+idea:
+  title: Fairness-Aware Calibration of LLM Evaluators Using Tokenized Disclosures
+  domain: nlp
+  hypothesis: 'Fine-tuning LLM evaluators to avoid penalizing tokenized AI assistance
+    disclosures and to remove demographic interaction effects will operationalize
+    fairness by design and improve the fairness of algorithmic judgment in ranking,
+    hiring, and review systems.
+
+    '
+  background:
+    description: 'Fine-tune LLM evaluators to avoid penalizing tokenized AI assistance
+      disclosures and to remove demographic interaction effects documented in prior
+      work. This approach operationalizes fairness by design and closes the loop between
+      disclosure design and algorithmic judgment in ranking, hiring, and review systems.
+
+      '
+    papers:
+    - description: '"Penalizing Transparency? How AI Disclosure and Author Demographics
+        Shape Human and AI Judgments About Writing." Inyoung Cheong, Alicia Guo, Mina
+        Lee, Zhehui Liao, Kowe Kadoma, Dongyoung Go, Joseph Chee Chang, Peter Henderson,
+        Mor Naaman, Amy X. Zhang (2025). arXiv.org.'
+  metadata:
+    source: IdeaHub
+    source_url: https://hypogenic.ai/ideahub/idea/P9LgVu2ZpI9X0HISJTrD
+    idea_id: fairness_aware_calibration_of__20260212_165907_ba11d68e
+    created_at: '2026-02-12T16:59:07.207181'
+    status: submitted
+    github_repo_name: fairness-llm-calibration-0618-claude
+    github_repo_url: https://github.com/Hypogenic-AI/fairness-llm-calibration-0618-claude
