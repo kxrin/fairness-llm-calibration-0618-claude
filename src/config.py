@@ -9,7 +9,7 @@ random.seed(SEED)
 np.random.seed(SEED)
 
 # Paths
-PROJECT_ROOT = "/workspaces/fairness-llm-calibration-0618-claude"
+PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATASET_DIR = os.path.join(PROJECT_ROOT, "datasets")
 RESULTS_DIR = os.path.join(PROJECT_ROOT, "results")
 PLOTS_DIR = os.path.join(RESULTS_DIR, "plots")

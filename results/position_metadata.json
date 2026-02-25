@@ -1,0 +1,18 @@
+{
+  "experiment": "disclosure_position",
+  "timestamp": "2026-02-25T14:45:30.974783",
+  "model": "gpt-4.1",
+  "n_samples": 100,
+  "n_runs": 3,
+  "temperature": 0.3,
+  "seed": 42,
+  "positions": [
+    "start",
+    "middle",
+    "end",
+    "parenthetical"
+  ],
+  "total_conditions": 500,
+  "total_time_seconds": 1851.385390996933,
+  "total_api_calls": 1500
+}
