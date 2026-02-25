@@ -1,6 +1,6 @@
 Original baseline study on fairness-aware calibration of LLM evaluators was generated using the Idea Explorer autonomous research framework [2]. The original report (REPORT.md) established the core finding that GPT-4.1 penalizes AI-disclosed text by -0.100 points (p=0.003, d=-0.31) and tested several prompt-based calibration strategies. The improvements and extended analysis below build directly on that original work.
 
-# MY SUGGESTED IMPROVEMENTS AND IMPLEMENTATIONS:
+# My Suggested Improvements and Implementations
 
 Some things I directly noticed that I feel though would improve this work and make the research overall more comprehensive:
 
